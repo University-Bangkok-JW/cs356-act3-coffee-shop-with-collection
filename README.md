@@ -1,3 +1,3 @@
-# cs356-act3-coffee-shop-with-collection
+# my_workshop_03_1640705339
 
-Study purpose only
+A new Flutter project.
